@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="Black">
-    <option name="enabledOnReformat" value="true" />
-    <option name="sdkName" value="shahensaifullah_apis" />
-  </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="shahensaifullah_apis" project-jdk-type="Python SDK" />
-</project>
